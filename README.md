@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GIS-4CAF50?style=flat-square"/>
 </p>
 
 ---
@@ -16,9 +17,6 @@
 - 📊 데이터로 실생활 문제를 풀거나 마케팅에 활용하는 데 관심이 많습니다
 - 🔍 상권·소비자·리뷰 데이터를 분석해 실질적인 인사이트를 도출하는 프로젝트를 주로 진행합니다
 
-### 🛠️ Tech Stack
-
-`Python` · `SQL` · `Snowflake` · `scikit-learn` · `GIS`
 
 ---
 
