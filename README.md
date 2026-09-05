@@ -49,7 +49,4 @@
   </a>
 </p>
 
-<!-- GitHub Stats 카드 (중앙 정렬 및 반응형 크기 조절) -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dudtj507&show_icons=true&theme=default&hide_title=true" alt="GitHub Stats" width="100%" style="max-width: 450px;"/>
-</p>
+
